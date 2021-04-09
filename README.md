@@ -1,0 +1,2 @@
+# tsconfig
+Reusable TS config
