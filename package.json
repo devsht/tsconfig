@@ -1,6 +1,6 @@
 {
   "name": "@devsht/tsconfig",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reusable TS config",
   "main": "tsconfig.json",
   "repository": "git@github.com:devsht/tsconfig.git",
